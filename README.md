@@ -67,4 +67,4 @@ $ docker-compose up -d
 
 > Please keep in mind that when starting for the first time it may take a few moments (even a couple minutes) to get your Let's Encrypt certificates generated.
 
-### Any further Nextcloud configuration please check [Nextcloud Admin Documentation](https://docs.nextcloud.com/server/12/admin_manual/)
+### For more information about Wekan, check [Wekan Documentation](https://github.com/wekan/wekan/wiki)
