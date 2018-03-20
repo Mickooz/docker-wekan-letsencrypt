@@ -17,7 +17,7 @@ services:
       - ${DB_CONTAINER_NAME}
     environment:
       MONGO_URL: ${MONGO_URL}
-      ROOT_URL: ${VIRTUAL_HOST}
+      ROOT_URL: ${ROOT_URL}
       Accounts_UseDNSDomainCheck: "true"
 #     MAIL_URL: ${MAIL_URL}
 #     MAIL_FROM: ${MAIL_FROM}
